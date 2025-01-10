@@ -111,6 +111,6 @@
         </scg:Dictionary>
       </sap:WorkflowViewStateService.ViewState>
     </Assign>
-    <ui:LogMessage DisplayName="Log Message - Concatenation of strings" sap:VirtualizedContainerService.HintSize="434,164" sap2010:WorkflowViewState.IdRef="LogMessage_2" Level="Info" Message="[string.Join(&quot; &quot; ,StringArray)]" />
+    <ui:LogMessage DisplayName="Log Message - Join" sap:VirtualizedContainerService.HintSize="434,164" sap2010:WorkflowViewState.IdRef="LogMessage_2" Level="Info" Message="[string.Join(&quot; &quot; ,StringArray)]" />
   </Sequence>
 </Activity>
